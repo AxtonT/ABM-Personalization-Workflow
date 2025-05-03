@@ -15,7 +15,7 @@ body { font-family: var(--font); color: var(--dark); background: var(--white); l
 .hr-nav ul { list-style: none; display: flex; gap: 2rem; padding: 1rem 0; border-bottom: 1px solid #E5E7EB; }
 .hr-nav li { font-weight: 600; text-transform: uppercase; font-size: 0.9rem; cursor: default; }
 /* Hero */
-.hero { background: linear-gradient(rgba(0,82,204,0.5), rgba(0,82,204,0.5)), url('hero-bg.jpg') center/cover no-repeat; padding: 4rem 0; text-align: center; color: var(--white); }
+.hero { background: linear-gradient(rgba(0,55,70,0.75), rgba(0,55,70,0.75)), url('hero-bg.jpg') center/cover no-repeat; padding: 4rem 0; text-align: center; color: var(--white); }
 .hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
 .hero p { font-size: 1.25rem; margin-bottom: 2rem; }
 .btn-demo { background: var(--blue); color: var(--white); padding: 0.75rem 1.5rem; border-radius: 4px; font-weight: 600; display: inline-block; cursor: default; }
